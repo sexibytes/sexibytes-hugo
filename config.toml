@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "http://www.sexibytes.fr/"
+baseurl = "https://www.sexibytes.fr/"
 languageCode = "en"
 title = "SexiBytes"
 theme = "vex-hugo"
@@ -44,7 +44,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 logo = ""
 home = "Home"
 # Meta data
-description = "This is meta description"
+description = "VMware open-source appliances"
 author = "SexiBytes"
 # copyright
 copyright = "Copyright 2020 &copy; SexiBytes | All right reserved."
